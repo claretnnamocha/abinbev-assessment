@@ -45,10 +45,10 @@ For a visual overview, please refer to the [Miro Board](https://miro.com/app/boa
 
 ```bash
 # Clone the repository
-git clone https://github.com/claretnnamocha/dev-test.git
+git clone https://github.com/claretnnamocha/abinbev-assessment.git
 
 # Navigate into the project directory
-cd dev-test
+cd abinbev-assessment
 
 # Install dependencies
 npm install
